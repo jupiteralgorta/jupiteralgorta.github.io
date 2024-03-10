@@ -28,7 +28,7 @@
       "position": "Teacher Assistant",
       "url": "",
       "startDate": "2023-09-01",
-      "endDate": "Present",
+      "endDate": "",
       "summary": "Helping students with extra office hours, marking, and tutoring",
       "highlights": ""
     },
@@ -37,7 +37,7 @@
       "position": "Research Assistant Assistant",
       "url": "",
       "startDate": "2023-09-01",
-      "endDate": "Present",
+      "endDate": "",
       "summary": "Working under the supervision of Dr. Leah Eldestein-Keshet in projects related to modelling the dynamics of cell biology.",
       "highlights": ""
     }
@@ -125,7 +125,7 @@
       "summary": "My research revolves around the exploration of a hypothesized local Rac inhibitor's role in neutrophil cells. Collaborating with esteemed researchers Jason Town and Orion Weiner (USFC), I have been fortunate to access extensive quantitative data that fortifies their hypothesis regarding the existence of this inhibitor. Leveraging this valuable dataset and building upon prior work in adaptive systems, I am actively engaged in constructing a spatial computational model encapsulating Rac activity within a moving cell, incorporating the hypothesized inhibitor.",
       "highlights": "",
       "startDate": "2023-09-01",
-      "endDate": "Present",
+      "endDate": "",
       "url": ""
     }
   ]
